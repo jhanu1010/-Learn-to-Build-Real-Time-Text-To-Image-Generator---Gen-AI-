@@ -1,0 +1,59 @@
+{
+  "captions": [
+    "a small white circle on a dark background",
+    "a large yellow square with sharp corners",
+    "a red triangle pointing upward",
+    "a bright blue star with five points",
+    "this pink flower has overlapping petals and yellow florets"
+  ],
+  "tokenized": {
+    "tokens": [
+      [
+        "a",
+        "small",
+        "white",
+        "circle",
+        "on",
+        "a",
+        "dark",
+        "background"
+      ],
+      [
+        "a",
+        "large",
+        "yellow",
+        "square",
+        "with",
+        "sharp",
+        "corners"
+      ],
+      [
+        "a",
+        "red",
+        "triangle",
+        "pointing",
+        "upward"
+      ],
+      [
+        "a",
+        "bright",
+        "blue",
+        "star",
+        "with",
+        "five",
+        "points"
+      ],
+      [
+        "this",
+        "pink",
+        "flower",
+        "has",
+        "overlapping",
+        "petals",
+        "and",
+        "yellow",
+        "florets"
+      ]
+    ]
+  }
+}
